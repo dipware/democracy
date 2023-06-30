@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = git@github.com:dipware/client.git
+[submodule "ethereum-smart-contract"]
+	path = ethereum-smart-contract
+	url = git@github.com:dipware/ethereum-smart-contract.git
